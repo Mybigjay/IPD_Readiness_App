@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 st.title("🏗️ Integrated Project Delivery (IPD) Research Support Tool")
-st.subheader("CMG 6402 – Canadian Public Sector IPD Analysis (Group 5)")
+st.subheader("CMG 6402 – Canadian Public Sector IPD Analysis (Blessing Ngozi Emelogu)")
 
 st.markdown("""
 This tool operationalizes your research on **Integrated Project Delivery (IPD)** in Canadian public sector construction.
