@@ -20,9 +20,9 @@ This tool operationalizes your research on **Integrated Project Delivery (IPD)**
 It evaluates how project procurement structure, governance framework, collaboration maturity, and risk allocation align with IPD principles (CCDC 30).
 """)
 
-st.write("**Group 5 Members:** | Blessing Ngozi Emelogu | Collins Gyasi | Danielle Johnson | Omotayo Moyosore Akinwale")
-st.write("**Supervised by: Prof. Babak Rahmani**")
-st.divider()
+#st.write("**Group 5 Members:** | Blessing Ngozi Emelogu | Collins Gyasi | Danielle Johnson | Omotayo Moyosore Akinwale")
+#st.write("**Supervised by: Prof. Babak Rahmani**")
+#st.divider()
 
 # ===================================================
 # 2. ASSESSMENT INPUT LAYER
